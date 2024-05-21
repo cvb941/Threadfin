@@ -4,6 +4,7 @@ http://example.com/stream/1
 
 #EXTINF:0 channelID="2" tvg-chno="2" tvg-name="Channel.2" tvg-id="tvg.id.2" tvg-logo="https://example/logo.png" group-title="Group 2",Channel 2
 #123
+#456
 http://example.com/stream/2
 
 #EXTINF:123, Sample artist - Sample title
